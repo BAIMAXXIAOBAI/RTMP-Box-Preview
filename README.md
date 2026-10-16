@@ -92,7 +92,7 @@ A: 这通常是因为录制过程意外中断（如：手机没电关机、App �
 - 移植环境：Xiaomi 8 (MIUI 9  / Android 8) - 兼容性良好
 - 移植环境：Xiaomi 11 Lite (HyperOS 2.0.2.0 / Android 14) - 言十二科技移植版，兼容性良好
 - 测试环境：Xiaomi 15 Ultra (HyperOS 3.0.6.0 / Android 16) - 完美运行
-- 注：低于 Android 11 的系统可能无法安装或解析本软件。
+- 注：仅兼容64位系统、低于 Android 8 的系统可能无法安装或解析本软件。
 
 ---
 
